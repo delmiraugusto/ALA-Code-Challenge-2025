@@ -92,7 +92,7 @@ classDiagram
 - Clone this repository
 - Open cmd and execute this code changing the CHANGE-ME to the software Git URL:
 ```
-git clone CHANGE-ME
+git clone https://github.com/delmiraugusto/ALA-Code-Challenge-2025/tree/delmir-Augusto/solucao
 ```
 ### Building:
 
